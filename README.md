@@ -1,3 +1,3 @@
-Intelligent Networked Systems Lab (INSysLab) @ Kyutech
+Chenglong Shao's personal homepage.
 
-https://insyslab-kyutech.github.io/
+https://clshao.github.io/
